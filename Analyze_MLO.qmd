@@ -40,4 +40,4 @@ mlo_data %>%
   theme_classic()
 ```
 
-The concentration of carbon dioxide goes up strongly over time from the first measurements in the late 1950s. It also shows a jigsaw pattern from the Northern Hemisphere deciduous leaf changes over the course of the year.
+The concentration of carbon  dioxide goes up strongly over time from the first measurements in the late 1950s. It also shows a jigsaw pattern from the Northern Hemisphere deciduous leaf changes over the course of the year.
